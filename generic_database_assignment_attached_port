@@ -1,0 +1,6 @@
+# generic_database_assignment_attached_port
+
+dbhost=real.database.com:27017
+dbport=5434
+dbuser=pilal
+dbpass=<p@s5w8ta
