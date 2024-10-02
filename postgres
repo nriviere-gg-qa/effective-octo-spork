@@ -1,0 +1,28 @@
+postgre
+db_host = '222.14.205.5'
+db_port = '5285'
+db_username = 'RPbQ9JcVYIEwaz39W'
+db_password = '1tnI9yL85dJtgPY3TqBNGKt'
+db_name = 'I53DYT3YIsA0yU46c'
+
+
+
+postgre
+db_host = '7C1UPG5CAP6oB721t_qoqts2jWf.com:136'
+db_port = '136'
+db_username = 'F33jclT6YcMWwGP0'
+db_password = 'kPxpqD6iVO!pt8Q9TJivb'
+db_name = 'ZwHNT'
+
+
+
+cli_command = 'PGPASSWORD=MyrW psql -h111.210.251.89 -U5pq8A2TJnqsCGC5jA -p 5769'
+
+
+
+pgpass = '254.250.236.94:488:dummydb:4QMBtQiVQ:Y6Hhx8ALzA1yBadyfiQ6sRKM1UfjRsFnqYcJygLarv'
+
+
+
+postgis
+connection_uri = 'postgres://EcyciDej:pHAS0NrcH+nlbDd0!CqxBitK4BHVTmv!2ABkM9Rq+cBgI!@222.74.254.254:6928'
